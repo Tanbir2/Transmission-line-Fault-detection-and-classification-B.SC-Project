@@ -1,9 +1,5 @@
 **<h2>CatBoost algorithm for transmission line faults detection and classification</h2>**
 
- **Tanbir Rahman , Talab Hasan , and Arif Ahammad,***
-  
-Department of Electrical & Electronics Engineering, Shahjalal University of Science & Technology, Sylhet, Bangladesh.  </br> tanbirr806@e-mail.com; talabhasan365@gmail.com; arif-eee@sust.edu;
-
 
 **Background**   </br> Recently, Bangladesh experiences heavy power cuts and a system loss (power transmission &
  distribution loss) of 11.11% in FY 2020-21. And, fault in the transmission line is one of the key reasons behind this.
