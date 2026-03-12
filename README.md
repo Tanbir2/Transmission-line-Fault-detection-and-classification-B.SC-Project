@@ -27,3 +27,6 @@
 
  **Details** </br>
 https://github.com/Tanbir2/Transmission-line-Fault-detection-and-classification-B.SC-Project/blob/main/Report%20Book/CatBoost%20Algorithm%20for%20Transmission%20Line%20Fault%20detection%20and%20classification.pdf
+
+**Published Version** </br>
+https://doi.org/10.1155/etep/6114718Digital Object Identifier (DOI)
